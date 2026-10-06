@@ -30,6 +30,7 @@ Fournis donc les règles de gestion et le dictionnaire de données.
 
 
 **Écuries**
+• Chaque écurie a un identifiant unique 
 
 • Le championnat compte 10 écuries au maximum.
 
