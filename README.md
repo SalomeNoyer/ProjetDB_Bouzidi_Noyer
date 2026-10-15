@@ -154,7 +154,7 @@ Fournis donc les règles de gestion et le dictionnaire de données.
 
 27 \~ Statut du pilote à l'arrivée (classé, abandon, disqualifié, non-partant) 	\~ Alphabétique \~ 15 caractères
 
-28 \~ Motif de l'abandon 							\~ Alphanumérique \~ 100 caractères
+28 \~ Année de sortie de l'académie                             \~ Entier \~ 4 caractères
 
 29 \~ Points marqués par le pilote sur le Grand Prix 				\~ Décimal \~ 3 chiffres (dont 1 décimale)
 
@@ -168,5 +168,6 @@ Fournis donc les règles de gestion et le dictionnaire de données.
 
 34 \~ Position du pilote au classement général 					\~ Entier \~ 2 chiffres
 
-35 \~ Total de points cumulés (pilote ou écurie) 				\~ Décimal \~ 4 chiffres (dont 1 décimale)
+35 \~ Total de points cumulés (pilote) 				\~ Décimal \~ 4 chiffres (dont 1 décimale)
+
 
