@@ -25,7 +25,7 @@ Fournis donc les règles de gestion et le dictionnaire de données.
 
 • Chaque pilote porte un numéro de course, choisi par lui et valable pour toute sa carrière.
 
-• Certaines pilotes féminines sont issues du programme de formation de la fédération (l'académie) ; on souhaite savoir si c'est le cas et quelle année elles ont intégré ce programme.
+• Les pilotes sont issus du programme de formation de la fédération (l'académie) ; on souhaite savoir si c'est le cas et quelle année ils ont intégré ce programme.
 
 
 
@@ -54,7 +54,7 @@ Fournis donc les règles de gestion et le dictionnaire de données.
 
 **Résultats des Grands Prix**
 
-• À l'issue de chaque Grand Prix, on enregistre pour chaque pilote engagé : sa position d'arrivée, son temps de course, ou son abandon éventuel (avec le motif).
+• À l'issue de chaque Grand Prix, on enregistre pour chaque pilote engagé : sa position d'arrivée, son temps de course.
 
 • On enregistre aussi la position de départ (grille) de chaque pilote.
 
@@ -89,12 +89,6 @@ Fournis donc les règles de gestion et le dictionnaire de données.
 • On conserve les classements de toutes les saisons passées.
 
 
-
-**Publication**
-
-• Le site web de la fédération affiche les résultats, les classements, la fiche de chaque pilote et de chaque écurie, ainsi que les records par circuit.
-
-• Une rubrique dédiée met en avant les pilotes féminines et le programme de formation.
 
 
 
