@@ -184,3 +184,22 @@ Responsable d'ecurie consulte: les pilotes affectés à chaque écurie pour une 
 Responsable du championnat consulte: les Grands Prix de chaque saison, les circuits, leurs villes et leurs pays, les résultats des courses, les chronos des meilleurs tours et les records des circuits.
 
 Responsable des statistique consulte: le nombre de pilotes, les statistiques par sexe et par saison, les moyennes d'âge, les statistiques de résultats, les records des circuits et les meilleurs tours.
+
+### Plan d'execution ###
+
+![Arbre 1](./img/Arbre_1.png)
+
+![Arbre 2](./img/Arbre_2.png)
+
+Ces deux plans d'execution correspondent à la requete suivante:
+
+
+![Pour la saison 2026, combien de points chaque pilote a-t-il obtenus et dans quelle écurie court-il ?](./img/analyse_requete.png)
+
+
+
+L'arbre 1 effectue en premier les jointures puis fait un tri, ce qui demande de lire toutes les lignes, même celles non concernées par la requête. Tandis que l'arbre 2 effectue le tri en premier et après fait les jointures. 
+
+On passe d'une lecture de 60 lignes lors de la selection Engager à une lecture de 20 lignes, et pour la selection participer, on passe de 600 lignes à 200 lignes. 
+
+Ainsi, le plan d'execution 2 (l'arbre 2) est plus optimisé, même si le plan d'execution de l'arbre 1 reste réalisable et donne le même resultat. 
