@@ -173,3 +173,14 @@ Fournis donc les règles de gestion et le dictionnaire de données.
 
 ### Le MLD ###
 ![Capture d'écran du MLD](./img/MLD.png)
+
+
+### Le scénario d’utilisation utilisé ###
+
+Responsable sportif consulte: la liste des pilotes, leur age, nationnalite, leur sexe, leur classement general et les points cumulés, les résultats obtenus lors de GP et enfin les meilleures positions d'arrivee.
+
+Responsable d'ecurie consulte: les pilotes affectés à chaque écurie pour une saison, la composition homme/femme des écuries, les points obtenus par chaque écurie et le classement des écuries.
+
+Responsable du championnat consulte: les Grands Prix de chaque saison, les circuits, leurs villes et leurs pays, les résultats des courses, les chronos des meilleurs tours et les records des circuits.
+
+Responsable des statistique consulte: le nombre de pilotes, les statistiques par sexe et par saison, les moyennes d'âge, les statistiques de résultats, les records des circuits et les meilleurs tours.
