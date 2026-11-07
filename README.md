@@ -172,6 +172,7 @@ Fournis donc les règles de gestion et le dictionnaire de données.
 
 
 ### Le MLD ###
+Capture d'ecran du MLD
 ![Capture d'écran du MLD](./img/MLD.png)
 
 
@@ -187,13 +188,15 @@ Responsable des statistique consulte: le nombre de pilotes, les statistiques par
 
 ### Plan d'execution ###
 
+Arbre 1:
 ![Arbre 1](./img/Arbre_1.png)
 
+Arbre 2:
 ![Arbre 2](./img/Arbre_2.png)
 
 Ces deux plans d'execution correspondent à la requete suivante:
 
-
+Pour la saison 2026, combien de points chaque pilote a-t-il obtenus et dans quelle écurie court-il ?:
 ![Pour la saison 2026, combien de points chaque pilote a-t-il obtenus et dans quelle écurie court-il ?](./img/analyse_requete.png)
 
 
